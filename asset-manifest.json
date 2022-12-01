@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/cart-page-deploy/static/css/main.073c9b0a.css",
-    "main.js": "/cart-page-deploy/static/js/main.b5af47aa.js",
-    "static/js/787.7fce283d.chunk.js": "/cart-page-deploy/static/js/787.7fce283d.chunk.js",
-    "static/media/logo.svg": "/cart-page-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/cart-page-deploy/static/css/main.5f141e61.css",
+    "main.js": "/cart-page-deploy/static/js/main.da90762e.js",
+    "static/media/jordan.jpg": "/cart-page-deploy/static/media/jordan.45f129883cd274bfb269.jpg",
+    "static/media/4.webp": "/cart-page-deploy/static/media/4.7eaa9be067d44c4832ce.webp",
+    "static/media/2.webp": "/cart-page-deploy/static/media/2.e73330bd77ae7a04a041.webp",
+    "static/media/1.webp": "/cart-page-deploy/static/media/1.58de2c727105930f141b.webp",
+    "static/media/3.webp": "/cart-page-deploy/static/media/3.9f0724c8f84d17f6eb29.webp",
     "index.html": "/cart-page-deploy/index.html",
-    "main.073c9b0a.css.map": "/cart-page-deploy/static/css/main.073c9b0a.css.map",
-    "main.b5af47aa.js.map": "/cart-page-deploy/static/js/main.b5af47aa.js.map",
-    "787.7fce283d.chunk.js.map": "/cart-page-deploy/static/js/787.7fce283d.chunk.js.map"
+    "main.5f141e61.css.map": "/cart-page-deploy/static/css/main.5f141e61.css.map",
+    "main.da90762e.js.map": "/cart-page-deploy/static/js/main.da90762e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b5af47aa.js"
+    "static/css/main.5f141e61.css",
+    "static/js/main.da90762e.js"
   ]
 }
